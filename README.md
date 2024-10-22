@@ -1,4 +1,7 @@
-## Hi there 👋
+## Hi there 👋 
+  <p align = "center">
+	<img src = "https://komarev.com/ghpvc/?username=Ays1004&style=plastic&color=blueviolet" alt = "Profile Views"/>
+</p>
 
 <!--
 **Ays1004/Ays1004** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
