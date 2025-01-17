@@ -1,7 +1,7 @@
 ## Hi there 👋 
 
   <p align = "center">
-	<img src = "https://komarev.com/ghpvc/?username=Ays1004&style=plastic&color=blue" alt = "Profile Views"/>
+	<img src = "https://komarev.com/ghpvc/?username=Ays1004&style=flat&color=blue" alt = "Profile Views"/>
 </p>
 
 <br/>
