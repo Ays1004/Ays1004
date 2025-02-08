@@ -46,6 +46,6 @@
 <div align=center>
  <a href="https://www.linkedin.com/in/ritik-yewale-54a3922a7/" target="_blank"><img src="https://img.shields.io/static/v1?style=for-the-badge&message=LinkedIn&color=0A66C2&logo=LinkedIn&logoColor=FFFFFF&label=" alt="LinkedIn" /></a>
 <a href="https://leetcode.com/u/ays1004/" target="_blank"><img width="100px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/LeetCode_Logo_black_with_text.svg/2560px-LeetCode_Logo_black_with_text.svg.png" alt="LeetCode" /></a>
-<a href="https://x.com/hereAys" target="_blank"><img width="100px" src="https://img.shields.io/badge/X-%23000000.svg?logo=X&logoColor=white" alt="X" /></a>
+<a href="https://x.com/hereAys" target="_blank"><img width="100px" src="https://img.shields.io/twitter/follow/hereAys" alt="X" /></a>
 <a href="https://steamcommunity.com/id/ayush_1004/" target="_blank"><img width="110px" alt="Steam" src="https://e7.pngegg.com/pngimages/768/845/png-clipart-brand-logo-product-design-font-steam-text-logo.png" /></a>
 </div>
