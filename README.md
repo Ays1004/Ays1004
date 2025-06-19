@@ -1,6 +1,6 @@
 ## Hi there 👋 
 
-  <p align = "center">
+<p align = "center">
 	<img src = "https://komarev.com/ghpvc/?username=Ays1004&style=flat&color=blue" alt = "Profile Views"/>
 </p>
 
@@ -10,6 +10,11 @@
 	<a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=I'm+Ritik;A+Learner;A+Full+Stack+Developer;A+Farmer;A+Computer+Science+Student;A+Competitive+Gamer;A+Cinephile"></a>
 </p>
 
+<br/>
+
+<div align = "center">
+	<img src="https://github-readme-stats.vercel.app/api?username=Ays1004&theme=tokyonight&show_icons=true&hide_border=true&count_private=true">
+</div>
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
