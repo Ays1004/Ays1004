@@ -13,8 +13,9 @@
 <br/>
 
 <div align = "center">
-	<img src="https://github-readme-stats.vercel.app/api?username=Ays1004&theme=tokyonight&show_icons=true&hide_border=true&count_private=true">
+	<img src="https://github-readme-stats.vercel.app/api?username=Ays1004&theme=blueberry&show_icons=true&hide_border=true&count_private=true">	
 </div>
+
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
